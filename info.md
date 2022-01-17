@@ -120,3 +120,5 @@ git branch
 
 >git branche -D branche_name
 
+Существует еще одна команда для удаления ветки: 
+>git branche -d --force branche_name
