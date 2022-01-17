@@ -107,3 +107,6 @@ git branch
 
 Переместиться к ветке с именем  branch_name:
 >git checkout branch_name
+## Слияние веток и решение конфликтов
+Чтобы слить информацию из ветки branche_name в текущуую, нам нужно:
+>git merge branche_name
