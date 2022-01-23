@@ -126,4 +126,7 @@ git branch
 >git branche -d --force branche_name
 
 
+![uzor](uzor2.png)
+
+
 
